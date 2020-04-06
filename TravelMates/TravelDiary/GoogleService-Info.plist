@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>941064853882-4i83lbbqrmpvv681sjg6g95qu2sps4vh.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.941064853882-4i83lbbqrmpvv681sjg6g95qu2sps4vh</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAqqjjT3mRdlRfIUEVFynK5ibBrAhUB_HY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>941064853882</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.siddhant.TravelDiary</string>
+	<key>PROJECT_ID</key>
+	<string>traveldiarynotif</string>
+	<key>STORAGE_BUCKET</key>
+	<string>traveldiarynotif.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:941064853882:ios:91d47729a5f931232e9ec3</string>
+	<key>DATABASE_URL</key>
+	<string>https://traveldiarynotif.firebaseio.com</string>
+</dict>
+</plist>
